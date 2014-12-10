@@ -1,0 +1,5 @@
+python-dateutil>=2.2
+matplotlib>=1.4.2
+numpy>=1.9.1
+requests>=2.4.3
+scipy>=0.14.0
